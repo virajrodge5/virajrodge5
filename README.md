@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virajrodge5
-- I  am a pre-final year undergraduate student at the Indian Institute of Technology Bhubaneswar, pursuing a Bachelor of Technology in Electronics and Communication Engineering. I am actively interested in web development. 
+- I  am a pre-final year undergraduate student at the Indian Institute of Technology(IIT), Bhubaneswar, pursuing a Bachelor of Technology in Electronics and Communication Engineering. I am actively interested in web development. 
 - I have experience with frameworks such as Node.js, Express.js, and React.js.
 - You can reach me at -
    - LinkedIn: https://www.linkedin.com/in/virajrodge/
