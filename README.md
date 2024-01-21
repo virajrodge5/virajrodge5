@@ -3,7 +3,7 @@
 - I have experience with frameworks such as Node.js, Express.js, and React.js.
 - You can reach me at -
    - LinkedIn: https://www.linkedin.com/in/virajrodge/
-  - Mail: virajrodge5@gmail.com
+  - Mail: virajrodge@gmail.com
   
 
 <!---
